@@ -1,2 +1,2 @@
 # word2vec
-word2vec by python
+word2vec implement in python
